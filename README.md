@@ -26,7 +26,7 @@ Modifiche su:
 
 Txprofile.conf
 
-Creato tabella ad hoc con mcs per ogni score
+Creato tabella ad hoc con mcs per ogni score  
 
 Alink.conf
 
@@ -36,14 +36,9 @@ Osd level = 5
 
 Font = 0.7
 
-
-
-  Copiare i file sulla VTX in /etc/
-
-
-
-
 wlan_adapters.yaml
 
 Tabella mcs n. 3 con valori di power out
+
+  Copiare i file sulla VTX in /etc/
 
