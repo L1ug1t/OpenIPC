@@ -38,7 +38,7 @@ Font = 0.7
 
 
 
-Copiare i file sulla VTX in /etc/
+  Copiare i file sulla VTX in /etc/
 
 
 
