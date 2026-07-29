@@ -57,3 +57,5 @@ Fonts = 0.7
 ### wlan_adapters.yaml
 
 MCS Table No. 3 with power output values
+
+### Set 60 fps in OpenIPC VRX menu'
