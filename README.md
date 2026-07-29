@@ -61,4 +61,6 @@ MCS Table No. 3 with power output values
 ### Set 60 fps in OpenIPC VRX menu'
 
 I am using these files and managing to reach 5 km without glitches or video interruptions caused by the firmware; any reception issues would simply be due to the antennas used and their alignment.
-I use the stock antennas on the VTX and two DIY 16 element Yagi antennas (for 5.8 GHz) on the VRX; with two patch antennas, I think a range of 3–4 km is achievable.
+I use the stock antennas on the VTX and two DIY 16 element Yagi antennas (for 5.8 GHz) on the VRX. With two patch antennas I think a range of 3–4 km is achievable.
+I’ve only been testing for two days and don’t have the batteries to go any further; that’s a 5 km out-and-back flight with my 200g quad, lasting 18 minutes.
+I’ve only been testing for two days and don’t have the batteries to go any further; I’m getting a 5 km range (each way) with my 200g quad, 1104 motors, HQ 3.5x2.2 props, and dual 3000mAh 18650 Li-ion batteries.
