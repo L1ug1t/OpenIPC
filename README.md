@@ -14,6 +14,10 @@ runcam_wifilink_sdcard.img
 
 ## Drone Installation
 
+Install WinSCP, connettere la VTX con il cavo LAN al router, cercare sulle impostazioni del router il proprio indirizzo IP
+
+WinSCP -> Tabs -> New Tab -> File Protocol = scp - Host Name = your IP, User Name = root, Password = 12345 
+
 Copy in /etc/
 
 
