@@ -59,3 +59,6 @@ Fonts = 0.7
 MCS Table No. 3 with power output values
 
 ### Set 60 fps in OpenIPC VRX menu'
+
+I am using these files and managing to reach 5 km without glitches or video interruptions caused by the firmware; any reception issues would simply be due to the antennas used and their alignment.
+I use the stock antennas on the VTX and two DIY 16 element Yagi antennas (for 5.8 GHz) on the VRX; with two patch antennas, I think a range of 3–4 km is achievable.
