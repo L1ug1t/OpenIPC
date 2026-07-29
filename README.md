@@ -26,13 +26,21 @@ Copy files in /etc/
 Created an ad-hoc table with MCS for each score.
 
 MCS = 0 - 3
+
 fec = 8 - 12
+
 bitrate = 8000 to 4000
+
 gop = 10
+
 Pwr = don't work
+
 roiQp = 0,0,0,0
+
 bandwidth = 20
+
 qpDelta = -12
+
 
 These values ​​are for long-range use, aiming for a decent video feed with a minimum bitrate. 
 It can also work for Acro mode.
