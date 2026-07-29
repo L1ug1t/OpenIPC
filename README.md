@@ -16,7 +16,7 @@ runcam_wifilink_sdcard.img
 
 Install WinSCP, Connect the VTX to the router using the LAN cable, and look up your IP address in the router settings.
 
-WinSCP -> Tabs -> New Tab -> File Protocol = scp - Host Name = your IP, User Name = root, Password = 12345 
+WinSCP -> Tabs -> New Tab -> File Protocol = scp - Host Name = your IP - User Name = root - Password = 12345 
 
 Copy files in /etc/
 
